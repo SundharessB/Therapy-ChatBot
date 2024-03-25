@@ -1,5 +1,6 @@
 # Calm Companion: A Therapy ChatBot
 ### Developed By: Sundharess B, BadriNarayanan S, Samson Sabu, Tanisha Das
+### Video Link - https://drive.google.com/file/d/1ruLFDL-BybDq0fnyfCaOfgf35QI35Qr1/view?usp=sharing
 
 ## Overview
 
@@ -122,10 +123,6 @@ NeuralChat is a customizable chatbot framework under the Intel® Extension for T
 The Intel Developer Cloud provides access to various hardware and software resources, enabling developers to build and test AI applications like chatbots. It simplifies the deployment process and offers optimizations using Intel AI software.
 
 These Intel products provide the necessary infrastructure and tools to create a responsive and efficient therapy chatbot capable of offering real-time support and crisis intervention.
-
-# Demo Video
-
-
 
 # Acknowledgement
 
