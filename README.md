@@ -4,7 +4,7 @@
 
 ## Overview
 
-Calm Companion is an innovative therapy chatbot designed to provide immediate, empathetic support for individuals experiencing emotional distress or suicidal thoughts. By leveraging the power of the Intel model `TheBloke/neural-chat-7B-v3-1-GGUF`, Lifeline Harmony offers a conversational experience that understands and responds to the unique needs of each user.
+Suicide Prevention: A Therapy ChatBot is an innovative therapy chatbot designed to provide immediate, empathetic support for individuals experiencing emotional distress or suicidal thoughts. By leveraging the power of the Intel model `TheBloke/neural-chat-7B-v3-1-GGUF`, Lifeline Harmony offers a conversational experience that understands and responds to the unique needs of each user.
 
 ## Purpose
 
@@ -19,9 +19,9 @@ The chatbot serves as a first line of defense in suicide prevention, offering a 
 
 ## Impact
 
-Calm Companion aims to make mental health support more accessible and immediate, potentially saving lives by connecting users with the help they need when they need it most.
+Suicide Prevention: A Therapy ChatBot aims to make mental health support more accessible and immediate, potentially saving lives by connecting users with the help they need when they need it most.
 
-For more information on how Calm Companion is transforming mental health support, please refer to the detailed sections within this README.
+For more information on how Suicide Prevention: A Therapy ChatBot is transforming mental health support, please refer to the detailed sections within this README.
 
 # Key Packages
 
