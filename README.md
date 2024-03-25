@@ -1,6 +1,5 @@
 # Calm Companion: A Therapy ChatBot
-
-![pexels-fauxels-3184611](https://github.com/SundharessB/Therapy-ChatBot/assets/139948283/1861b716-ca16-4ed5-8bb2-ec490a51101f)
+### Developed By: Sundharess B, BadriNarayanan S, Samson Sabu, Tanisha Das
 
 ## Overview
 
@@ -125,6 +124,15 @@ The Intel Developer Cloud provides access to various hardware and software resou
 These Intel products provide the necessary infrastructure and tools to create a responsive and efficient therapy chatbot capable of offering real-time support and crisis intervention.
 
 # Demo Video
+
+
+
+# Acknowledgement
+
+We would like to extend our heartfelt gratitude to the Intel oneAPI community for their invaluable contributions to the development of our therapy chatbot, **Calm Companion**. The resources, tools, and support provided by the oneAPI initiative have been instrumental in enabling us to leverage cutting-edge technology to make a positive impact on mental health. This project stands as a testament to what can be achieved when we come together to address critical challenges in our society.
+
+Thank you, Intel oneAPI community, for your support and for helping us bring **Calm Companion** to life.
+
 
 
 
