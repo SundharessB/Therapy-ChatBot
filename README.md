@@ -1,31 +1,27 @@
-# Therapy-ChatBot
+# Calm Companion: A Therapy ChatBot
 
-Welcome to the Therapy Chatbot project! This repository contains code for a therapy chatbot designed to provide supportive and therapeutic responses to user queries. The chatbot utilizes various natural language processing (NLP) techniques and models to generate helpful responses.
+![pexels-fauxels-3184611](https://github.com/SundharessB/Therapy-ChatBot/assets/139948283/1861b716-ca16-4ed5-8bb2-ec490a51101f)
 
-# Introduction
+## Overview
 
-This therapy chatbot is designed to provide immediate assistance and support to individuals experiencing suicidal thoughts. Utilizing the advanced capabilities of the `TheBloke/neural-chat-7B-v3-1-GGUF` model, our chatbot aims to engage users in meaningful conversations, offering them guidance and helping to navigate through their crises.
+Calm Companion is an innovative therapy chatbot designed to provide immediate, empathetic support for individuals experiencing emotional distress or suicidal thoughts. By leveraging the power of the Intel model `TheBloke/neural-chat-7B-v3-1-GGUF`, Lifeline Harmony offers a conversational experience that understands and responds to the unique needs of each user.
 
-# Objective 
+## Purpose
 
-The primary objective of this chatbot is to prevent suicidal attempts by
+The chatbot serves as a first line of defense in suicide prevention, offering a safe space for users to express their feelings and receive guidance. Its primary goal is to reduce the risk of suicide by providing support and directing users to appropriate resources.
 
-- Offering a non-judgmental, supportive platform for users to express their feelings.
-- Providing timely interventions based on the user's emotional state.
-- Alerting designated organizations via email if a user expresses suicidal intent.
+## Capabilities
 
-# Features
+- **Emotional Support**: Engages users in therapeutic conversations to explore their feelings and provide comfort.
+- **Crisis Detection**: Utilizes advanced algorithms to detect signs of suicidal ideation and trigger alerts.
+- **Immediate Assistance**: Offers strategies and techniques to help users cope with their immediate emotional state.
+- **Resource Connection**: Guides users to professional help and emergency services when necessary.
 
-- **Interactive Conversations**: Engages users with empathetic and therapeutic dialogue.
-- **Crisis Detection**: Identifies language cues indicative of suicidal ideation.
-- **Alert Mechanism**: Automatically notifies support organizations upon detection of high-risk situations.
+## Impact
 
-# How it Works
+Calm Companion aims to make mental health support more accessible and immediate, potentially saving lives by connecting users with the help they need when they need it most.
 
-1. **User Interaction**: Users interact with the chatbot by sharing their thoughts and feelings.
-2. **Assistance**: The chatbot provides supportive responses and helps users explore their emotions.
-3. **Suicidal Ideation Detection**: If the chatbot detects any indication of suicidal thoughts, it triggers an alert system.
-4. **Alerting Organizations**: An email is sent to a pre-determined organization for immediate human intervention.
+For more information on how Calm Companion is transforming mental health support, please refer to the detailed sections within this README.
 
 # Key Packages
 
@@ -33,9 +29,22 @@ The primary objective of this chatbot is to prevent suicidal attempts by
 2) transformers - A library by Hugging Face that provides pre-trained models for Natural Language Processing (NLP) tasks like text classification, translation, and more. It includes models like BERT, GPT-2, T5, and others.
 3) chainlit - Chainlit is an open-source asynchronous Python framework that enables developers to build scalable Conversational AI or agentic applications quickly and efficiently.
 
-# Install required dependencies
+# Setup
+
+### Clone the repository
+
+
+### Install required dependencies
 
 pip install -r requirements.txt
+
+### Run the ingestion script to create the vector database
+
+py ingest.py
+
+### Start the ChatBot
+
+python -m chainlit run model.py
 
 # Requirements
 
@@ -96,6 +105,28 @@ In our therapy chatbot, the vector database plays a crucial role in understandin
 The use of a vector database ensures that our chatbot responds with high accuracy and relevance, making it a vital component in our mission to offer timely assistance and prevent suicidal attempts.
 
 This workflow ensures that users receive timely and appropriate support, while also facilitating human intervention when necessary.
+
+# Intel Products Utilized in Chatbot Development
+
+Our therapy chatbot leverages several Intel products that enhance its capabilities and performance. Below is a list of the key Intel technologies integrated into our chatbot framework:
+
+### Intel® Extension for Transformers
+
+NeuralChat comes under this extension.
+
+### NeuralChat
+
+NeuralChat is a customizable chatbot framework under the Intel® Extension for Transformers. It allows for the creation of chatbots with a rich set of plugins for knowledge retrieval, interactive speech, query caching, and security guardrails. NeuralChat is built on top of large language models (LLMs) and is designed to be deployed easily as a service.
+
+### Intel® Developer Cloud
+
+The Intel Developer Cloud provides access to various hardware and software resources, enabling developers to build and test AI applications like chatbots. It simplifies the deployment process and offers optimizations using Intel AI software.
+
+These Intel products provide the necessary infrastructure and tools to create a responsive and efficient therapy chatbot capable of offering real-time support and crisis intervention.
+
+# Demo Video
+
+
 
 
 
