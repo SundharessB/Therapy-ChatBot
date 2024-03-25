@@ -1,4 +1,4 @@
-# Calm Companion: A Therapy ChatBot
+# Suicide Prevention: A Therapy ChatBot
 ### Developed By: Sundharess B, BadriNarayanan S, Samson Sabu, Tanisha Das
 ### Video Link - https://drive.google.com/file/d/1ruLFDL-BybDq0fnyfCaOfgf35QI35Qr1/view?usp=sharing
 
